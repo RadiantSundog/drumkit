@@ -1,4 +1,4 @@
-## drumkit
+# drumkit
 
 A webpage that allows the user to play on a basic yet fun drum kit! Click different parts of the kit or press the associated hotkeys to make music :)
 
